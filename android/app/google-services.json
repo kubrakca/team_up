@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "738076473689",
+    "project_id": "teamup-77dbd",
+    "storage_bucket": "teamup-77dbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738076473689:android:e0f19e130cf5fc5cc17448",
+        "android_client_info": {
+          "package_name": "com.example.team_upp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAQiXCIICIp8Paj16P1wh98wy2fRntueU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
